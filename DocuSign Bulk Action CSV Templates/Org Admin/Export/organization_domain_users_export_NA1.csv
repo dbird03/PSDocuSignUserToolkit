@@ -1,0 +1,2 @@
+﻿APIUserName,FullName,FirstName,LastName,UserEmail,UserStatus,LoginPolicy,DefaultAccountSiteId,DefaultAccountId,DefaultAccountName,IdentityProviderInfo
+00000000-0000-0000-0000-000000000000,John Smith,John,Smith,john.smith@sampleemail.example,Active,FedAuthRequired,1,00000000-0000-0000-0000-000000000000,John Smith,[AzureADFS:|:951YbcAiop13xnAijnc7410Aicb38c7ajadfbav83c1]

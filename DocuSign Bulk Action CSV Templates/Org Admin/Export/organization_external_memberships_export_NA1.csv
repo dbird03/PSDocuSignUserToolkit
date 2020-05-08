@@ -1,0 +1,2 @@
+﻿SiteID,AccountID,AccountName,APIUserName,FullName,FirstName,LastName,UserEmail,UserStatus,AddedDate,MembershipStatus,eSignPermissionProfile,CompanyName,JobTitle,AddressLine1,AddressLine2,City,StateRegionProvince,PostalCode,Country,Phone,PaymentMethod,Groups
+1,00000000-0000-0000-0000-000000000000,Carlotta Litle,00000000-0000-0000-0000-000000000000,Carlotta Litle,Carlotta,Litle,carlotta.litle@sampleemail.example,Active,06/20/2013 16:51,Active,DocuSign Viewer,Sample Company 3,,One Company Way,,Seattle,WA,98999,,,Freemium,[Everyone]
