@@ -1,0 +1,10 @@
+FirstName,LastName,UserEmail,eSignPermissionProfile,Group,Group,CompanyName,JobTitle,AddressLine1,AddressLine2,City,StateRegionProvince,PostalCode,Phone,Language
+John,Smith,john.smith@sampleemail.example,DS Sender,Managers,,Summit Financial,Senior Manager,One Company Way,,Seattle,WA,98999,222-222-2232,en
+Simone,Jones,simone.jones@sampleemail.example,DS Sender,Sales,,Summit Financial,Customer Relations,One Company Way,,Seattle,WA,98999,222-222-2233,fr
+Hans,Reijin,hans.reijin@sampleemail.example,Template Admin,Admins,HR Team,Summit Financial,HR Team,One Company Way,,Seattle,WA,98999,222-222-2234,de
+Carlotta,Litle,carlotta.litle@sampleemail.example,DS Sender,,,Summit Financial,Poduct Development,One Company Way,,Seattle,WA,98999,222-222-2235,en
+Andries,Andre,andries.andre@sampleemail.example,DS Admin,DocuSign Support,Admins,Summit Financial,IT Department,One Company Way,,Seattle,WA,98999,222-222-2236,en
+Hikaru,Suzuki,hikaru.suzuki@sampleemail.example,Mortgage Sales Rep,Sales Dept,,ACME Mortgage ,Account Manager - Director,One Company Way,,Seattle,WA,98999,222-222-2237,ja
+Junkyu,Azuki,junkyu.azuki@sampleemail.example,Mortgage Sales Rep,Sales Dept,,ACME Mortgage ,Account Manager,One Company Way,,Seattle,WA,98999,222-222-2238,ko
+Nadia,Koriz,nadia.koriz@sampleemail.example,Mortgage Sales Rep,Sales Dept,,ACME Mortgage ,Sales Representative - Mortgage,One Company Way,,Seattle,WA,98999,222-222-2239,ru
+Alberto,Sebathi,alberto.sebathi@sampleemail.example,Mortgage Sales Rep,Sales Dept,,ACME Mortgage ,Sales Representative - Mortgage,One Company Way,,Seattle,WA,98999,222-222-2240,es
